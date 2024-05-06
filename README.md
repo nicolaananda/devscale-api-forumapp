@@ -132,8 +132,8 @@ https://drawsql.app/teams/inyx/diagrams/forumapp
   }
   or
   {
-    "status": 400,
-    "message": "Error posting reply"
+    "status": 401,
+    "message": "Error creating thread"
   }
 ## Profile
 
