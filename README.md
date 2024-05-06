@@ -15,7 +15,7 @@ User: `(id, email, password)`
 Thread: `(id, title, content, user_id, created_at)`  
 Reply: `(id, thread_id, content, user_id, created_at)`  
 Bookmark: `(id, user_id, thread_id)`  
-
+https://drawsql.app/teams/inyx/diagrams/forumapp
 ## API
 
 ### Authentication
